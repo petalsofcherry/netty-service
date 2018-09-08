@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/entity-processor.iml" filepath="$PROJECT_DIR$/entity-processor.iml" group="entity-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entity-processor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/entity-processor_main.iml" group="entity-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entity-processor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/entity-processor_test.iml" group="entity-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2053918696/promote.iml" filepath="$PROJECT_DIR$/.idea/modules/-2053918696/promote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2053918696/promote_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2053918696/promote_main.iml" group="promote" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2053918696/promote_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-2053918696/promote_test.iml" group="promote" />
+    </modules>
+  </component>
+</project>
